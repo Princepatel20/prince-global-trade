@@ -12,8 +12,8 @@
     max-width: 700px;
     max-height: auto; 
     object-fit: cover; 
-    margin-right: -750px;
-    margin-top: -1000px;
+    margin-right: 0px;
+    margin-top: -1100px;
   }
   .team-title {
     margin-top: 250px;
@@ -30,6 +30,14 @@
   .team-title h2{
     width: 100%;
     height: auto;
-    margin-top: -1400px;
+    margin-top: -2100px;
     margin-left: 10px;
+  }
+  .team-summary {
+    max-width: 700px;
+    height: auto;
+    margin-top: -1000px;
+    margin-left: 50px; 
+    position: relative;
+    overflow-wrap: break-word;
   }
